@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barcode</string>
+
+    <string name="test_string">Hello</string>
+    <string name="test_string_0">Hello World</string>
+    <integer name="int_value">@integer/google_play_services_version</integer>
+</resources>
